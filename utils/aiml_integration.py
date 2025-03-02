@@ -7,7 +7,8 @@ load_dotenv()
 
 class AIMLClient:
     def __init__(self):
-        self.api_key = os.getenv("AIMLAPI_KEY")
+       
+        self.api_key = st.secrets["AIMLAPI_KEY"]
         self.client = None
         self._initialize_client()
         
