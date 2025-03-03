@@ -20,12 +20,10 @@ The **Smart Agricultural Connectivity Planner (SACP)** addresses these challenge
 
 This project was developed by a talented team of five members:
 
-- **Muhammad Hanzal** - Project Lead & Backend Developer
+- **Muhammad Hanzla** - Project Lead & Backend Developer
 - **Amira Sayed Mohamed** - Frontend Developer & UI/UX Designer
 - **Nyambura Gachahi** - Data Analyst & Visualization Expert
 - **Amina Arooj** - Geospatial Analysis Specialist
-- **Khuram Hanif** - Machine Learning & AI Integration Expert
-
 ---
 
 ## **Solution**
