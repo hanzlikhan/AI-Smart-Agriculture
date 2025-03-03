@@ -9,6 +9,7 @@ Welcome to the **Smart Agricultural Connectivity Planner (SACP)**, a cutting-edg
 Agriculture is the backbone of many economies, yet farmers and agricultural planners face significant challenges in optimizing connectivity and resource allocation. Key issues include:
 
 - **Limited Connectivity**: Rural agricultural areas often lack reliable communication networks, making it difficult to implement smart farming technologies.
+  
 - **Inefficient Resource Allocation**: Without proper planning tools, farmers struggle to allocate resources like water, fertilizers, and equipment efficiently.
 - **Lack of Data-Driven Insights**: Many agricultural decisions are made based on intuition rather than data, leading to suboptimal outcomes.
 
