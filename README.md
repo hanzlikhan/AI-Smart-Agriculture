@@ -32,7 +32,7 @@ This project was developed by a talented team of five members:
 The **Smart Agricultural Connectivity Planner (SACP)** provides a suite of tools to address the challenges faced by farmers and agricultural planners:
 
 1. **Geospatial Analysis**:
-   - Upload geospatial data (e.g., GeoJSON, Shapefiles) to analyze terrain, vegetation, and elevation.
+   - Upload geospatial data (e.g., GeoJSON,Shapefiles) to analyze terrain, vegetation, and elevation.
    - Visualize data on interactive maps with custom parameters like vegetation threshold and elevation range.
 
 2. **Network Design**:
