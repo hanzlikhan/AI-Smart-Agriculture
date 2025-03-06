@@ -160,7 +160,7 @@ We would like to thank the following resources and tools for making this project
 # Contact Us
 For any questions or feedback, feel free to reach out to our team:
 
-- Muhammad Hanzal: khangormani79@gmail.com
+- Muhammad Hanzla: khangormani79@gmail.com
 
 - Amira Sayed Mohamed: amira.sayedza@gmail.com
 
