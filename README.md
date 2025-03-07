@@ -161,6 +161,7 @@ We would like to thank the following resources and tools for making this project
 For any questions or feedback, feel free to reach out to our team:
 
 - Muhammad Hanzla: khangormani79@gmail.com
+[LinkedIn](
 
 - Amira Sayed Mohamed: amira.sayedza@gmail.com
 
