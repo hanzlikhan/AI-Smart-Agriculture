@@ -73,7 +73,7 @@ The **SACP** is built using the following technologies:
 
 ---
 
-## **How to Clone and Run This Project**
+## **How to Clone and Run This App**
 
 Follow these steps to clone and run the **Smart Agricultural Connectivity Planner (SACP)** on your local machine:
 
