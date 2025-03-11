@@ -10,7 +10,7 @@ Agriculture is the backbone of many economies, yet farmers and agricultural plan
 
 - **Limited Connectivity**: Rural agricultural areas often lack reliable communication networks, making it difficult to implement smart farming technologies.
   
-- **Inefficient Resource Allocation**: Without proper planning tools, farmers struggle to allocate resources like water, fertilizers, and equipment efficiently.
+- **Inefficient Resource Allocation**: Without proper planning tools, farmers struggle to allocate resources like water, fertilizer, and equipment efficiently.
 - **Lack of Data-Driven Insights**: Many agricultural decisions are made based on intuition rather than data, leading to sub-optimal outcomes.
 
 The **Smart Agricultural Connectivity Planner (SACP)** addresses these challenges by providing a comprehensive platform for geospatial analysis, network planning, cost simulation, and data-driven decision-making.
@@ -147,7 +147,7 @@ git push origin feature/your-feature-name
 ---
 # Acknowledgments
 
-We would like to thank the following resources and tools for making this project possible:
+We would like to thank the following resource and tools for making this project possible:
 
 - **Streamlit** for the amazing framework.
 
