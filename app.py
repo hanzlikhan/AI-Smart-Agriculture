@@ -6,7 +6,7 @@ import folium
 import plotly.express as px
 from streamlit_folium import folium_static
 
-# Initialize core components
+# Initialize core component
 optimizer = NetworkOptimizer()
 simulator = CostSimulator()
 
